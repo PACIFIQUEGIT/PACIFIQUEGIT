@@ -1,4 +1,4 @@
-[![MasterHead]([https://aitechnologiesng.com/wp-content/uploads/2021/01/software-development-training-in-abuja-1024x682.jpg])]
+[![MasterHead](https://aitechnologiesng.com/wp-content/uploads/2021/01/software-development-training-in-abuja-1024x682.jpg)]
 <h1 align="center">Hi 👋, I'm Rene Pacifique</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/sharpeyeinfotech.com/wp-content/uploads/2023/03/unnamed.gif?fit=500%2C500&ssl=1">
