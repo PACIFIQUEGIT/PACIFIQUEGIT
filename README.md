@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mutanguhapacifique@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1DTx5vTf5mT6tBDn0_6FywATXN7qsgc_7JAmTlPu4F2k/edit?usp=sharing](https://docs.google.com/document/d/1DTx5vTf5mT6tBDn0_6FywATXN7qsgc_7JAmTlPu4F2k/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1DTx5vTf5mT6tBDn0_6FywATXN7qsgc_7JAmTlPu4F2k/edit?usp=sharing](https://docs.google.com/document/d/1yrgUElVTf5k20HMYsfgYa8eVFN1YcCUZ_cKwZVp6AAM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
