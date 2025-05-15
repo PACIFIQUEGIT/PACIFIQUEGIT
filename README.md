@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
        alt="C# logo" width="40" height="40"/>
 </a> <a href="https://phaser.io/" target="_blank" rel="noreferrer" title="Phaser">
-  <img src="https://www.phaser.io/images/logos/phaser-logo-01.png" 
+  <img src="https://www.cleanpng.com/png-phaser-html-game-javascript-typescript-pron-5688462/" 
        alt="Phaser logo" width="40" height="40"/>
 </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer" title="Android Studio">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" 
