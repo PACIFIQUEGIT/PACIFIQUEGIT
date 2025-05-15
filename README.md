@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacifiquegit&label=Profile%20views&color=0e75b6&style=flat" alt="pacifiquegit" /> </p>
 
-- 🔭 I’m currently doing Internship **at Up Skills Hub**
+- 🔭 I’m currently working as a Customer Support Specialist - Instacart Agent **at CCI Rwanda**
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Software Development and Game Development**
 
 - 📫 How to reach me **mutanguhapacifique@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13aBHfPZZnnAFlIAI6rMPXblyyMZ7zhni/view?usp=sharing](https://drive.google.com/file/d/13aBHfPZZnnAFlIAI6rMPXblyyMZ7zhni/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13aBHfPZZnnAFlIAI6rMPXblyyMZ7zhni/view?usp=sharing](https://drive.google.com/file/d/1ZctkMFhagTlfzzawbN_RqMM-ka9Jy_A5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
