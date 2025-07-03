@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13aBHfPZZnnAFlIAI6rMPXblyyMZ7zhni/view?usp=sharing](https://drive.google.com/file/d/1ZctkMFhagTlfzzawbN_RqMM-ka9Jy_A5/view?usp=sharing)
 
-- 🌐 Check out my portofolio https://portofolio-red-psi.vercel.app/
+- 🌐 Check out my portofolio https://portfolio-tau-ten-jypinoo4jv.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
