@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pacifiquegit&label=Profile%20views&color=0e75b6&style=flat" alt="pacifiquegit" /> </p>
 
-- 🔭 I’m currently working as a Customer Support Specialist - Instacart Agent **at CCI Rwanda**
+- 🔭 I’m currently **Unemployed**
 
 - 💬 Ask me about **Software Development and Game Development**
 
